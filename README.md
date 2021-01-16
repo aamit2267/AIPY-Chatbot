@@ -1,6 +1,6 @@
 # AIPY-Chatbot
 
-<img alt="size of repository" src="https://img.shields.io/badge/Size-70%20KB-green.svg">
+<img alt="size of repository" src="https://img.shields.io/badge/Size-70%20KB-green.svg">   <img alt="Javascript percentage" src="https://img.shields.io/badge/Python-100%25-green.svg">
 
 This is an customisable voice chatbot made using python. 
 
